@@ -1,5 +1,11 @@
-### Hi there 👋
+### Welcome to my Profile 👋
 
+
+I'm a M.Sc. Student in Computer Science and Engineering at Politecnico di Milano.
+
+I'm mainly interested in Data Engineering and I'm currently a member of the student association Polimi Data Scientists.
+
+Here you can take a look at the projects I've done over the years, some of them as part of my academic education, others out of personal interest. 
 <!--
 **AlessandroMessori/AlessandroMessori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
