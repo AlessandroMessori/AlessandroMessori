@@ -1,4 +1,4 @@
-### Welcome to my Profile 👋
+### Hi! My name is Alessandro! 👋
 
 
 I'm a M.Sc. Student in Computer Science and Engineering at Politecnico di Milano.
