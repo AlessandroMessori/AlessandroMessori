@@ -1,7 +1,7 @@
 ### Hi! My name is Alessandro! 👋
 
 
-I'm a M.Sc. Student in Computer Science and Engineering at Politecnico di Milano.
+I'm a MSc Student in Computer Science and Engineering at Politecnico di Milano.
 
 I'm deeply interested in Data Science and Engineering and I'm currently the vice president of the student association Polimi Data Scientists (in short PMDS), we organize events with companies to bridge the gap between university students and the data science work market, and we also organize projects and workshops to give students the chance to do some hands on data science work.
 
