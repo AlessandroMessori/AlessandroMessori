@@ -1,4 +1,3 @@
-&nbsp;
 <h2 align="center"> Summary</h2>
 I'm a MSc Student in Computer Science and Engineering at Politecnico di Milano.
 
