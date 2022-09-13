@@ -15,6 +15,8 @@ Some of these project were done as part of my study curriculum, others just out 
     * [`Football News Scraper`](https://github.com/AlessandroMessori/Football-Scraper) :  Web scraper realized with scrapy that downloads the latest article titles from the most famous italian and english news websites
     * [`Football News Analytics`](https://github.com/AlessandroMessori/Football-News-Analytics) : Python scripts used for downloading football news data from S3,do various analytics jobs on them and then store the results in a remote mongoDB instance
     * [`Football News S3 Utilities`](https://github.com/AlessandroMessori/Football-S3-Utils) : Utilities for generating and uploading automatically S3 files and directories used for football articles data analysis
+* [`Preference Selection Automatic Cut`](https://github.com/AlessandroMessori/Preference-Selection-Automatic-Cut) : About
+Automatic Dendrogram Cut integration for preference based Computer Vision Model Fitting algorithms
 * [`PoliMi Data Scientists`](https://polimidatascientists.it/) : The Data Science Association of Politecnico di Milano, I've held the Vice President title in the year 2022
     * [`Covid Tweets Analytics`](https://github.com/PolimiDataScientists/PMDS-Twitter-Analysis) : Scraping, Statistical and Sentiment Analysis on Covid related Tweets and Public Data
 * [`Team-Classifier-PyTorch`](https://github.com/AlessandroMessori/Team-Classifier-PyTorch) : CNN built using PyTorch and Transfer Learning to classify players belonging to 8 different teams from the UEFA Champions League
