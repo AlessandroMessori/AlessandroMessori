@@ -1,6 +1,7 @@
 <h2 align="center"> Summary</h2>
 I'm currently working as a Data Engineer in the Quality Datalab Team at Tesla Berlin Gigafactory.
 
+
 I'm deeply interested in Data Engineering and Distributed Systems, I'm always looking for new and interesting ways to efficiently collect, process and visualize huge quantities of data and extract powerful insights from them.
 
 In the past, I was the vice president of the student association Polimi Data Scientists (in short PMDS), wgere I founded and kickstarted the projects section, a team that is now cooperating with multiple companies on several data-related projects.
