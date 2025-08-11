@@ -1,5 +1,5 @@
 <h2 align="center"> Summary</h2>
-I'm currently working as a Data Engineer in the Quality Datalab Team at Tesla Berlin Gigafactory.
+I'm currently working as a Software Data Engineer in the Apple Shazam Team in London.
 
 <br/>
 
